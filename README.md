@@ -1,3 +1,11 @@
+# Azure ChatGPT
+
+[English](README.md) | [日本語](README.ja.md)
+
+Web chat application source and infrastructure for an Azure-hosted ChatGPT experience.
+
+---
+
 # Unleash the Power of Azure Open AI
 
 ChatGPT has grown explosively in popularity as we all know now. Business users across the globe often tap into the public service to work more productively or act as a creative assistant.
