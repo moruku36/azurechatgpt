@@ -1,0 +1,17 @@
+# Azure ChatGPT
+
+[English](README.md) | [日本語](README.ja.md)
+
+Azure上で動かすChatGPTチャットアプリのソースとインフラストラクチャを収めています。
+
+
+## 主なファイル・資料
+
+- [SECURITY.md](SECURITY.md)
+- [images/](images)
+- [infra/](infra)
+- [src/](src)
+
+## 詳しい使い方
+
+セットアップ、設定、コマンド例、元プロジェクトの説明は[英語版](README.md)にまとめています。この日本語版では概要と資料の入口を案内しています。
